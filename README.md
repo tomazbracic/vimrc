@@ -28,6 +28,18 @@ Feature / Use case              | Keyboard shortcut      | Description
 searching                       | /<string>              | It search for a string and colorize the strings 
 remove color from found items   | backspace              | Removes the color applied after search
 
+### Plugins:
+
+I use different pluggins. 
+
+- **yankmatches** from Damian Conway 
+     
+     For yanking or deleting all lines with a match. See instructions in plugin itself for usage.
+     
+     Install it in ~/.vim/plugin folder. 
+
+     https://github.com/thoughtstream/Damian-Conway-s-Vim-Setup/blob/master/plugin/yankmatches.vim
+
 
 ### To do:
 

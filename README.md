@@ -38,8 +38,15 @@ I use different pluggins.
      
      Install it in ~/.vim/plugin folder. 
 
-     https://github.com/thoughtstream/Damian-Conway-s-Vim-Setup/blob/master/plugin/yankmatches.vim
+     more: https://github.com/thoughtstream/Damian-Conway-s-Vim-Setup/blob/master/plugin/yankmatches.vim
 
+- **vim-go** Go (golang) support for Vim. Install it with:
+
+	 cd ~/.vim/bundle
+	 
+	 git clone https://github.com/fatih/vim-go.git
+
+     more: https://github.com/fatih/vim-go/
 
 ### To do:
 
